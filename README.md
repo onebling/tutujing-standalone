@@ -2,7 +2,8 @@
 
 Windows 单机发布包下载请看 Releases。
 
-- 解压 `图图镜单机版-v3.7.25-win-x64.zip`
+- 下载 Release 附件 `tutujing-standalone-v3.7.25-win-x64.zip`，页面显示标签为 `图图镜单机版-v3.7.25-win-x64.zip`
+- 解压后目录名是 `图图镜单机版`
 - 双击 `图图镜单机版.exe`
 - 单机版不需要登录软件账号
 - 发布包不包含旧 Data、旧数据库、旧缓存、WebView2 登录态或 API 密钥
