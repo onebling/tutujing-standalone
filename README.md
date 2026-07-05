@@ -113,3 +113,4 @@
 
 QQ交流群：1049427612
 
+<img src="docs/images/qq-group.jpg" alt="Codex + ChatGPT QQ 群" width="360">
