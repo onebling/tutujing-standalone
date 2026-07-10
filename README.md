@@ -5,7 +5,7 @@
 ## 下载与启动
 
 1. 打开右侧或顶部的 **Releases**。
-2. 下载最新版本附件：`tutujing-standalone-v3.7.25-win-x64.zip`。
+2. 下载最新版本附件：`tutujing-standalone-v3.7.53-win-x64.zip`。
 3. 解压后进入 `图图镜单机版` 文件夹。
 4. 双击 `图图镜单机版.exe` 启动。
 
